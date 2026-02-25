@@ -55,16 +55,7 @@ If you want to discuss **AI**, **Bangalore tech meetups**, or just grab a coffee
 - 📧 **Email:** anand.parihat@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/anand-kumarparihat-7a2793280](https://www.linkedin.com/in/anand-kumarparihat-7a2793280)
 - 🧑‍💻 **GitHub:** [github.com/parihatji](https://github.com/parihatji)
-
----
-      _    _       _   _    _                   _ 
-     | |  | |     | | | |  | |                 | |
-     | |__| | ___ | | | |  | | ___  _ __  ____ | |
-     |  __  |/ _ \| | | |/\| |/ _ \| '__||  _ \| |
-     | |  | | (_) | | \  /\  / (_) | |   | |_) |_|
-     |_|  |_|\___/|_|  \/  \/ \___/|_|   |  __/(_)
-                                         | |      
-                                         |_|
+                                   |_|
 <img src="banner.svg" width="100%" />
 ⭐ *If you like my work, consider giving a star to my repositories!*
 
