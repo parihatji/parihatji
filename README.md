@@ -65,6 +65,6 @@ If you want to discuss **AI**, **Bangalore tech meetups**, or just grab a coffee
      |_|  |_|\___/|_|  \/  \/ \___/|_|   |  __/(_)
                                          | |      
                                          |_|
-
+<img src="banner.svg" width="100%" />
 ⭐ *If you like my work, consider giving a star to my repositories!*
 
