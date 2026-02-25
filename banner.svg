@@ -1,0 +1,41 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027" />
+      <stop offset="50%" stop-color="#203a43" />
+      <stop offset="100%" stop-color="#2c5364" />
+    </linearGradient>
+
+    <linearGradient id="textGradient">
+      <stop offset="0%" stop-color="#00f5ff">
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00ff88">
+        <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00f5ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" fill="url(#bgGradient)" rx="15"/>
+
+  <!-- Hello World Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="60"
+        fill="url(#textGradient)"
+        font-weight="bold">
+    hello world
+  </text>
+
+  <!-- Subtle Typing Cursor -->
+  <rect x="610" y="85" width="10" height="40" fill="#00ffcc">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+</svg>
