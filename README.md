@@ -53,7 +53,7 @@ A **high-performance web scraping tool** capable of handling **dynamic web conte
 If you want to discuss **AI**, **Bangalore tech meetups**, or just grab a coffee:
 
 - 📧 **Email:** anand.parihat@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/anand-kumar](https://linkedin.com/in/anand-kumar)  
+- 💼 **LinkedIn:** [linkedin.com/in/anand-kumar](www.linkedin.com/in/anand-kumarparihat-7a2793280)  
 - 🧑‍💻 **GitHub:** [github.com/parihatji](https://github.com/parihatji)
 
 ---
